@@ -1,1 +1,1 @@
-# quarkus-batch7
+# quarkus
